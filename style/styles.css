@@ -1,0 +1,21 @@
+p {
+    color: brown;
+    font-size: 25px;
+}
+
+h1, 
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+.flexMe {
+    border: solid 3px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* display: flex and justify- content need to go together; space between, space evenly */
